@@ -30,10 +30,11 @@ It includes:
    git clone https://github.com/a1ex5ant-dev/wine-quality-analysis.git
 
 2. Navigate to the project folder:
-cd wine-quality-analysis
+   ```bash
+   cd wine-quality-analysis
 
 3. Open the Jupyter Notebook file inside notebooks/ to explore the analysis.
 
 
-Author
+## Author
 GitHub: a1ex5ant-dev
